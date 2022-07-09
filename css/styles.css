@@ -182,6 +182,18 @@ button:focus,
 	margin-right: 40px;
 }
 
+.work-main {
+	max-width: 750px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.contact-main {
+	max-width: 750px;
+	margin: 0 auto;
+	text-align: center;
+}
+
 .skill-table {
 	margin: 0 auto;
 }
